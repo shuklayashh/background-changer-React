@@ -4,6 +4,7 @@ import BackgroundChanger from './BackgroundChanger';
 function App() {
   return (
     <div className="App">
+      Made By Yash Shukla
       <BackgroundChanger />
     </div>
   );
